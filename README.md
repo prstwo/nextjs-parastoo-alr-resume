@@ -1,0 +1,1 @@
+# nextjs-parastoo-alr-resume
